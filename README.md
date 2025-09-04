@@ -5,7 +5,7 @@ This project demonstrates web scraping and data extraction from Books to Scrape
 It is divided into two stages: scraping raw HTML files and creating structured DataFrames.
 
 📂 Project Structure
-.
+
 ├── Scraping_Data.ipynb        # Notebook to scrape website and save 50 HTML files
 
 ├── Creating_DataFrames.ipynb  # Notebook to parse HTML files and build DataFrame
