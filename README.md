@@ -7,8 +7,11 @@ It is divided into two stages: scraping raw HTML files and creating structured D
 📂 Project Structure
 .
 ├── Scraping_Data.ipynb        # Notebook to scrape website and save 50 HTML files
+
 ├── Creating_DataFrames.ipynb  # Notebook to parse HTML files and build DataFrame
+
 ├── Extracted_data.csv         # Final dataset (Book Name, Price, Ratings)
+
 ├── htmls/                     # Folder containing 50 scraped HTML files
 
 🚀 Workflow
